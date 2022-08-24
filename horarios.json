@@ -1,0 +1,66 @@
+[
+  { 
+    "hour": 7:00,
+    "duration": 1,
+    "pattern": "--- --- ---"
+  },
+  
+  { 
+    "hour": 7:50,
+    "duration": 1,
+    "pattern": "--- --- ---"
+  },
+  
+  { 
+    "hour": 8:40,
+    "duration": 1,
+    "pattern": "--- --- ---"
+  },
+  
+  { 
+    "hour": 9:30
+    "duration": 1,
+    "pattern": "--- --- ---"
+  },
+   
+  { 
+    "hour": 10:00,
+    "duration": 1,
+    "pattern": "--- --- ---"
+  },
+  
+  { 
+    "hour": 10:50,
+    "duration": 1,
+    "pattern": "--- --- ---"
+  },
+  
+  { 
+    "hour": 11:40,
+    "duration": 1,
+    "pattern": "--- --- ---"
+  },
+  
+  { 
+    "hour": 12:30,
+    "duration": 1,
+    "pattern": "--- --- ---"
+  },
+  { 
+    "hour": 13:20,
+    "duration": 1,
+    "pattern": "--- --- ---"
+  },
+  { 
+    "hour": 14:10,
+    "duration": 1,
+    "pattern": "--- --- ---"
+  },
+  
+  { 
+    "hour": 15:00,
+    "duration": 1,
+    "pattern": "--- --- ---"
+  },
+  
+]
